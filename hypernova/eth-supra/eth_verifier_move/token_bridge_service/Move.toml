@@ -1,0 +1,25 @@
+[package]
+name = "token_bridge_service"
+version = "1.0.0"
+authors = []
+
+[addresses]
+token_bridge_service = "_"
+hypernova_core = "_"
+wrapped_token_deployer = "_"
+
+[dev-addresses]
+token_bridge_service = "0xdeadbeef"
+hypernova_core = "0xdead"
+wrapped_token_deployer = "0xdeadbeef2"
+
+[dependencies.SupraFramework]
+git = "https://github.com/Entropy-Foundation/aptos-core.git"
+rev = "aptosvm-v1.16_supra-v1.6.6"
+subdir = "aptos-move/framework/supra-framework"
+
+[dependencies.hypernova_core]
+local = "../hypernova_core"
+
+[dependencies.wrapped_token_deployer]
+local = "../wrapped_token_deployer"
