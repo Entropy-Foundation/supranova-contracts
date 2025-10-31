@@ -4,7 +4,7 @@ A cross-chain communication framework enabling secure asset and message transfer
 
 ## Overview
 
-SupraNova is a cross-chain communication framework developed by Supra that enables the transfer of assets and messages across blockchains by integrating multiple bridging technologies under a unified architecture.
+SupraNova, developed by Supra, is a cross-chain communication framework that facilitates asset and message transfers between blockchains through the integration of multiple bridging technologies within a unified architecture.
 
 ## Architecture
 
