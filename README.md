@@ -1,5 +1,10 @@
 # SupraNova Smart Contracts
 
+> [!IMPORTANT]
+> **Note:** The smart contracts in this repository are **outdated** and do not represent the latest SupraNova smart contracts. The source code for the latest SupraNova smart contracts is currently not publicly available and will be released soon.
+>
+> Bug bounty submissions based on vulnerabilities in these outdated contracts will **not be considered valid**.
+
 A cross-chain communication framework enabling secure asset and message transfer across blockchains.
 
 ## Overview
